@@ -1,2 +1,8 @@
 # Ignoring all csv files
 *.csv
+
+# Ignore practice notebook
+pfda.ipynb
+
+
+datasets
