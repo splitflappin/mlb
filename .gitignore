@@ -4,5 +4,6 @@
 # Ignore practice notebook
 pfda.ipynb
 
-
+# Ignore learn file
+learn.md
 datasets
