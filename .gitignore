@@ -1,9 +1,9 @@
 # Ignoring all csv files
 *.csv
 
-# Ignore practice notebook
+# Ignore practice notebooks
 pfda.ipynb
+intro.ipynb
 
 # Ignore learn file
 learn.md
-datasets
