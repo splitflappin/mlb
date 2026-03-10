@@ -2,7 +2,6 @@
 *.csv
 
 # Ignore practice notebooks
-pfda.ipynb
 intro.ipynb
 
 # Ignore learn file
